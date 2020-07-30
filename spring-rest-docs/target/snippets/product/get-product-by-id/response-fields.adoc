@@ -1,0 +1,24 @@
+|===
+|Path|Type|Description
+
+|`+code+`
+|`+String+`
+|Product Unique Identifier
+
+|`+name+`
+|`+String+`
+|Name of the product
+
+|`+description+`
+|`+String+`
+|Product Description
+
+|`+price+`
+|`+Number+`
+|Product Price
+
+|`+stock+`
+|`+Number+`
+|Product stock
+
+|===

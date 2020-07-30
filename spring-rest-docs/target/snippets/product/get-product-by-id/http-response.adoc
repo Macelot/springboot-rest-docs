@@ -1,0 +1,8 @@
+[source,http,options="nowrap"]
+----
+HTTP/1.1 200 OK
+Content-Length: 76
+Content-Type: application/json;charset=UTF-8
+
+{"code":"2","name":"WD SSD","description":"WD HDD","price":150.0,"stock":15}
+----
